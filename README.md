@@ -43,8 +43,3 @@ I am a passionate BCA student and community leader who bridges the gap between d
 - ⚡ **Fun fact:** I can write Android code in my sleep 
 
 ---
-
-### 📊 GitHub Stats
-
-![Min Assu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-assu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-assu&layout=compact&theme=radical)
